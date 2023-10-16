@@ -5,3 +5,5 @@ arr = [list(map(int, sys.stdin.readline().split())) for _ in range(m)]
 
 print(n, m)
 print(arr)
+
+print("test")
